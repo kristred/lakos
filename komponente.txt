@@ -1,0 +1,19 @@
+SENZORJI
+qre1113
+
+MUX
+CD4051 ali SN74LV405
+
+MOTOR
+Pololu Micrometal gearmotor
+30:1 HPCB 6V
+ali 10:1 HPCB 6V
+
+ENKODER
+magnetic encoder Pololu
+
+DRIVER
+Toshiba tb6612fge
+
+BLUETOOTH
+RN42-I/RM Microchip technology
