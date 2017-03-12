@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name robot)(type KiCad)(uri "$(KIPRJMOD)\\robot.pretty")(options "")(descr ""))
+)

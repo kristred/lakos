@@ -1,4 +1,4 @@
-update=6. 03. 2017 11:47:11
+update=11. 03. 2017 16:18:21
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=D:/Kristina/faks/4.letnik/MS/vaje/robot_Kristina/KiCad/robot
+LibDir=C:/Users/Ready/Desktop/arduino_python/lakosbot2016/kicad
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -59,3 +59,4 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=robot
+LibName31=C:/Users/Ready/Desktop/arduino_python/lakosbot2016/kicad/lakosbot
