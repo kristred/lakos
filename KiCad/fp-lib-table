@@ -1,3 +1,11 @@
 (fp_lib_table
+  (lib (name Resistors_SMD)(type KiCad)(uri "$(KISYSMOD)\\Resistors_SMD.pretty")(options "")(descr ""))
+  (lib (name Diodes_SMD)(type KiCad)(uri "$(KISYSMOD)\\Diodes_SMD.pretty")(options "")(descr ""))
+  (lib (name Battery_Holders)(type KiCad)(uri "$(KISYSMOD)\\Battery_Holders.pretty")(options "")(descr ""))
+  (lib (name RF_Modules)(type KiCad)(uri "$(KISYSMOD)\\RF_Modules.pretty")(options "")(descr ""))
   (lib (name robot)(type KiCad)(uri "$(KIPRJMOD)\\robot.pretty")(options "")(descr ""))
+  (lib (name Housings_DIP)(type KiCad)(uri "$(KISYSMOD)\\Housings_DIP.pretty")(options "")(descr ""))
+  (lib (name TO_SOT_Packages_THT)(type KiCad)(uri "$(KISYSMOD)\\TO_SOT_Packages_THT.pretty")(options "")(descr ""))
+  (lib (name Buttons_Switches_ThroughHole)(type KiCad)(uri "$(KISYSMOD)\\Buttons_Switches_ThroughHole.pretty")(options "")(descr ""))
+  (lib (name Capacitors_ThroughHole)(type KiCad)(uri "$(KISYSMOD)\\Capacitors_ThroughHole.pretty")(options "")(descr ""))
 )
